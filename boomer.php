@@ -1,3 +1,8 @@
+<?php
+if (isset($_GET)) {
+
+}
+?>
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
